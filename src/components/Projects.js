@@ -39,7 +39,7 @@ export const Projects = () => {
       title: "Solix",
       description: "React.js",
       imgUrl: Solix,
-      url: "",
+      url: "https://solix-f405d.web.app/",
     },
     {
       title: "Vueexe",
